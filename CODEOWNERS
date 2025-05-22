@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tptan86
+/src/backend/database.py      @tptan86
+/src/backend/routers/auth.py  @tptan86
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tptan86
